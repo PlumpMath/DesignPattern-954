@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "策略模式", "策略模�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "策略模式", "策略模式\策略模式.csproj", "{44975E51-CECB-4C3E-B8A6-19D83AE3D4FA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "模板方法模式", "模板方法模式", "{7A707E59-0A4C-4CED-BAF1-9E203546931D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模板方法模式", "模板方法模式\模板方法模式.csproj", "{7C02FB64-AB5E-4F0D-8FA7-C8CC9FF2DBC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{44975E51-CECB-4C3E-B8A6-19D83AE3D4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44975E51-CECB-4C3E-B8A6-19D83AE3D4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44975E51-CECB-4C3E-B8A6-19D83AE3D4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C02FB64-AB5E-4F0D-8FA7-C8CC9FF2DBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C02FB64-AB5E-4F0D-8FA7-C8CC9FF2DBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C02FB64-AB5E-4F0D-8FA7-C8CC9FF2DBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C02FB64-AB5E-4F0D-8FA7-C8CC9FF2DBC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,5 +63,6 @@ Global
 		{1A875DA3-7492-48E6-9D44-4408DBD4F765} = {5C6A9D75-56D9-457D-8809-27050C9F1528}
 		{81BCDDB8-62D7-4AD7-8337-9D7EBE786F4F} = {54DAF2AD-BA3A-4D6A-94D1-40D80202B194}
 		{44975E51-CECB-4C3E-B8A6-19D83AE3D4FA} = {F05A2D6B-1EA7-4C1D-9988-B3E62DBC1E48}
+		{7C02FB64-AB5E-4F0D-8FA7-C8CC9FF2DBC3} = {7A707E59-0A4C-4CED-BAF1-9E203546931D}
 	EndGlobalSection
 EndGlobal
