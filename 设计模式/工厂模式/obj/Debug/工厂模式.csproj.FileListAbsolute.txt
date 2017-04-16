@@ -1,0 +1,1 @@
+G:\运行文件\dotNetRunFile(新版)\设计模式代码（C#版）\设计模式\工厂模式\bin\Debug\工厂模式.exe.config

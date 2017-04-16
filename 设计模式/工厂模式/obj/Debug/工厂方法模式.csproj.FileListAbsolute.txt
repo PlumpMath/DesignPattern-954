@@ -1,0 +1,6 @@
+G:\运行文件\dotNetRunFile(新版)\设计模式代码（C#版）\设计模式\工厂模式\bin\Debug\工厂模式.exe.config
+G:\运行文件\dotNetRunFile(新版)\设计模式代码（C#版）\设计模式\工厂模式\bin\Debug\工厂模式.exe
+G:\运行文件\dotNetRunFile(新版)\设计模式代码（C#版）\设计模式\工厂模式\bin\Debug\工厂模式.pdb
+G:\运行文件\dotNetRunFile(新版)\设计模式代码（C#版）\设计模式\工厂模式\obj\Debug\工厂方法模式.csprojResolveAssemblyReference.cache
+G:\运行文件\dotNetRunFile(新版)\设计模式代码（C#版）\设计模式\工厂模式\obj\Debug\工厂模式.exe
+G:\运行文件\dotNetRunFile(新版)\设计模式代码（C#版）\设计模式\工厂模式\obj\Debug\工厂模式.pdb
