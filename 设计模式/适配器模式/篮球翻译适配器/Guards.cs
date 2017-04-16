@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace 适配器模式.篮球翻译适配器
 {
+    /// <summary>
+    /// 后卫
+    /// </summary>
     public class Guards:Player
     {
         public Guards(string name)

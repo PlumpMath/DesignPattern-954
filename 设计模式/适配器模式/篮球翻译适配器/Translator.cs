@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace 适配器模式.篮球翻译适配器
 {
+    /// <summary>
+    /// 翻译者类
+    /// </summary>
     public class Translator:Player
     {
         private foreignCenter wjzf = new foreignCenter();
