@@ -10,7 +10,11 @@ namespace 工厂模式
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("测试使用");
+            Console.WriteLine("---------------简单工厂模式--------------------");
+            Calc calc = CalcFactory.CreateOperate("+");
+            calc.Num1 = 10;
+            calc.Num2 = 3;
+            Console.WriteLine(calc.GetResult()); 
             Console.ReadKey();
         }
     }
