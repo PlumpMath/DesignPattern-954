@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace 抽象工厂模式
 {
-    public class XiaoMiFactory:MediaFactory
+    public class XiaoMiFactory:IMediaFactory
     {
         public IPC GetPC()
         {
